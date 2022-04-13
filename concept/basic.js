@@ -41,8 +41,9 @@ let name = "박1";
 let name2 = `박2 ${name}`;// `` <백틱
 console.log(name2);
 
+
 let isSwitchOff = false;
-let a;// udefined
+let a; // undefined
 console.log(a);
 let b = null;// null
 console.log(b);
@@ -104,11 +105,11 @@ console.log(p);
 let at = 3;
 
 if (a >= 7) {
-    console.log("7 이상입니다.");
+    console.log("7 이상입니다.")
 } else if (at >= 5) {
-    console.log("5 이상입니다.");
+    console.log("5 이상입니다.")
 } else {
-    console.log("5 미만입니다.");
+    console.log("5 미만입니다.")
 }
 
 let contry = "ko";
