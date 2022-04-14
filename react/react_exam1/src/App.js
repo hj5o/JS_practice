@@ -25,7 +25,7 @@ function App() {
 }
 
 Counter.defaultProps={
-  initialValue:0
+  initialValue:5
 }
 
 export default App;
